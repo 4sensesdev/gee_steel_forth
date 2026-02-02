@@ -225,7 +225,7 @@ I spent a lot of time thinking about what to call this model while I was writing
 
 <div align="center">
 
-#### Radiation Adjusted Model for Evapotranspiration Nature - 8
+### Radiation Adjusted Model for Evapotranspiration Nature - 8
 
 </div>
 
