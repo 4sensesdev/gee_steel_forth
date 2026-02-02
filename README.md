@@ -515,7 +515,13 @@ $$R_{so} = (0.75 + 2 \cdot 10^{-5} z) R_a$$
 
 <div align="center">
 
-$$R_s = \begin{cases} R_{s,ERA5} & \text{if } VPD \leq 1.5 \\ \max(R_{s,ERA5}, k_{Rs} R_a \sqrt{T_{max}-T_{min}}) & \text{if } VPD > 1.5 \end{cases}$$
+For a low humidity environment ($VPD \leq 1.5$):
+
+$$R_s = R_{s,ERA5}$$
+
+For higher evaporative demand ($VPD > 1.5$):
+
+$$R_s = \max(R_{s,ERA5}, k_{Rs} R_a \sqrt{T_{max}-T_{min}})$$
 
 </div>
 
@@ -525,7 +531,7 @@ $$R_s = \begin{cases} R_{s,ERA5} & \text{if } VPD \leq 1.5 \\ \max(R_{s,ERA5}, k
 
 </div>
 
-<div style="text-align: cemter">
+<div align="center">
 
 $$R_{ns} = (1 - \alpha) R_s$$
 
@@ -605,7 +611,13 @@ $$f_{cd} = 1.35 \frac{R_s}{R_{so}} - 0.35$$
 
 <div align="center">
 
-$$R_{nl} = \begin{cases} \sigma T_K^4 \cdot 0.985 - R_{li} & \text{Extreme zones (Observational)} \\ \sigma T_K^4 \cdot \varepsilon_{net} \cdot f_{cd} & \text{High mountain/Temperate zones (Parametric)} \end{cases}$$
+For extreme zones (Observational approach):
+
+$$R_{nl} = \sigma T_K^4 \cdot 0.985 - R_{li}$$
+
+For high mountain or temperate zones (Parametric approach):
+
+$$R_{nl} = \sigma T_K^4 \cdot \varepsilon_{net} \cdot f_{cd}$$
 
 </div>
 
@@ -621,7 +633,7 @@ $$R_{nl} = \begin{cases} \sigma T_K^4 \cdot 0.985 - R_{li} & \text{Extreme zones
 
 </div>
 
-<div align="justify">
+<div align="center">
 
 $$R_n = R_{ns} - R_{nl}$$
 
@@ -656,7 +668,7 @@ Resultant vector calculated from the zonal ($u$) and meridional ($v$) wind compo
 
 </div>
 
-<div style="text-align: cemter">
+<div align="center">
 
 $$z_0 = (LAI \cdot 0.02) + 0.001$$
 
@@ -708,7 +720,7 @@ Logarithmic wind profile adjustment from 10m to 2m height.
 
 </div>
 
-<div style="text-align: cemter">
+<div align="center">
 
 $$P = 101.3 \cdot \left(\frac{293 - 0.0065 \cdot z}{293}\right)^{5.26}$$
 
