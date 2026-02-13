@@ -290,7 +290,7 @@ $$AI = \frac{Pcp}{PET}$$
 
 <div align="center">
 
-_**Equation 3**. Aridity Index ($AI$)_
+_**Equation 3**. Aridity Index (AI)_
 
 </div>
 
@@ -370,7 +370,7 @@ _**Table 4**. Reference points classified by aridity index._
 
 <div align="justify">
 
-Table 4 shows that the relationship between annual precipitation and potential evapotranspiration is consistent with observed terrestrial climates. In the central Sahara and the Atacama Desert, where precipitation is $<25$–$30$ mm and PET exceeds $1500$ mm, the aridity index is hyper-arid ($AI < 0.05$). In central Australia, with approximately $150$–$200$ mm of rain and a PET of about $2000$ mm, the regime is arid. Regions such as the western United States, northeastern Brazil, and the Tibetan Plateau present intermediate precipitation levels that remain below evaporative demand, resulting in semi-arid conditions. In contrast, the Amazon, the humid Andes, Alpine Europe, and Japan show precipitation levels exceeding PET and positive water balances. These magnitudes and classifications align with the climatic ranges reported by the World Atlas of Desertification from the JRC-UNEP and the UNEP definition of the aridity index based on $Pcp/PET$.
+Table 4 shows that the relationship between annual precipitation and potential evapotranspiration is consistent with observed terrestrial climates. In the central Sahara and the Atacama Desert, where precipitation is $<25–30$ mm and PET exceeds $1500$ mm, the aridity index is hyper-arid ($AI < 0.05$). In central Australia, with approximately $150–200$ mm of rain and a PET of about $2000$ mm, the regime is arid. Regions such as the western United States, northeastern Brazil, and the Tibetan Plateau present intermediate precipitation levels that remain below evaporative demand, resulting in semi-arid conditions. In contrast, the Amazon, the humid Andes, Alpine Europe, and Japan show precipitation levels exceeding PET and positive water balances. These magnitudes and classifications align with the climatic ranges reported by the World Atlas of Desertification from the JRC-UNEP and the UNEP definition of the aridity index based on $Pcp/PET$.
 
 This confirms that in this third layer of the dessert, we find not only great flavor but also consistency. We are talking about a thick chocolate or a dense filling that binds everything together, creating a dessert with a variety of textures where each layer complements the others. It maintains the balance without losing its purpose: to generate happiness. At least, that is the idea.
 
